@@ -12,7 +12,6 @@
 
 - 📄 [Read the Final Report](Group5_Final_Report.pdf)
 - 💻 [Explore the Research Notebook](DataMining_Group5_AirPollutantEarlyWarning.ipynb)
-- 📊 [Browse Figures and Tables](outputs/)
 
 ---
 
@@ -272,7 +271,6 @@ National Economics University – Data Mining, Group 5
 | Research notebook | [Open Notebook](DataMining_Group5_AirPollutantEarlyWarning.ipynb) |
 | Final research report | [View PDF](Group5_Final_Report.pdf) |
 | Dataset (UCI) | [Beijing Multi-Site Air-Quality Data](https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data) |
-| Figures and tables | [outputs/](outputs/) |
 
 **External documentation:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/) · [LightGBM](https://lightgbm.readthedocs.io/) · [scikit-learn](https://scikit-learn.org/)
 
