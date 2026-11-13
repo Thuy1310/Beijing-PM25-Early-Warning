@@ -218,7 +218,7 @@ pip install numpy pandas scipy scikit-learn matplotlib lightgbm jupyter
 
 **Data:** download the Beijing Multi-Site Air-Quality dataset from the [UCI repository](https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data) and place the 12 files named `PRSA_Data_<Station>_20130301-20170228.csv` in the folder set by `DATA_DIR` in the notebook (default `"."`).
 
-**Run:** open `DataMining_Group5_AirPollutantEarlyWarning.ipynb` in Jupyter or Google Colab and run all cells in order. Figures, tables and the model card are written to `outputs/`.
+**Run:** open `DataMining_Group5_AirPollutantEarlyWarning.ipynb` in Jupyter or Google Colab and run all cells in order. Figures, tables and the model card are written to `Outputs`.
 
 **Quick check:** set the environment variable `RQ45_QUICK=1` to run the RQ4–RQ5 section with far fewer bootstrap resamples. This is for testing the code only; reported numbers use 2,000 resamples. Full runs involve many model fits and bootstrap loops, so expect a long runtime.
 
