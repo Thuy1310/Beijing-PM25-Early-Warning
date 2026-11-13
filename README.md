@@ -257,8 +257,8 @@ National Economics University – Data Mining, Group 5
 | Member | Student ID | Main contributions |
 |---|---|---|
 | Nguyen Nguyet Anh | 11230733 | Research questions; RQ4–RQ5 analysis plan and interpretation; EDA for RQ1–RQ3; Results section |
-| Vu Khanh Linh | 11230760 | Literature review and research gaps; RQ2–RQ3; Introduction, Related Work, Discussion |
-| Vu Phuong Anh | 11230736 | Methods section; RQ1, RQ4, RQ5 analyses; presentation slides |
+| Vu Khanh Linh | 11230760 | Methods section; RQ1, RQ4, RQ5 analyses; presentation slides |
+| Vu Phuong Anh | 11230736 | Literature review and research gaps; RQ2–RQ3; Introduction, Related Work, Discussion |
 | Trần Thu Thủy | 11230780 | RQ2–RQ3 co-development; Abstract and Conclusion; manuscript review; presentation slides |
 
 **Instructor:** Nguyen Trong Nghia
